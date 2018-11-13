@@ -2,7 +2,7 @@
 
 ### An open and free platform to help beginner programmers get started
 
-** Some descriptions should go here**
+**Some descriptions should go here**
 
 #### Contribution Guide
 
